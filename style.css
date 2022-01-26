@@ -1,0 +1,28 @@
+/* body font and box styling*/
+html, body {
+    margin: 5;
+    padding: 0;
+}
+header{
+
+}
+
+/* navigation bar */
+nav {
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+nav li {
+    color:aliceblue;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    display: inline-block;
+    width: 100px;
+}
+
+img {
+    width: 80%;
+    height: 50%
+}
